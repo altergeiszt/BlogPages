@@ -77,4 +77,12 @@ which then prevents them into doing relevant "deep work". A steady and concentra
 
 ## Step 3 Directness
 
-Directness, or if we want a more elegant phrasing, deliberate practice is when we 
+I have to admit that I made the mistake of assuming Directness is the same as Deliberate Practice.
+Young defined Directness as the path we take to learn the skill or subject in question while avoiding transfer issues
+caused by fake work. Transfer issues are usually caused by the assumption that studying automatically transfer
+the ability to do the skill or fully understanding the subject by doing buffer activities, like using a
+language learning app for an extended period of time without actively trying to have a conversation in that language.
+In my case, reading chapter by chapter of a Calculus textbook without working following the worked examples,
+or solving exercise problems.
+
+Deliberate Practice on the other hand requires us to push beyond our current limits through repetition of task and increasing the desirable difficulty in order to refine our skills, or deepen our understanding of the concept.
