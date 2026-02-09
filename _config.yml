@@ -1,0 +1,16 @@
+# Site Settings
+title: The Learning Journal
+description: A minimalist blog hosted on GitHub Pages.
+email: bagay9371@saskpolytech.ca
+
+# Social Links (Used in the template)
+github_username: altergeiszt
+
+# Build Settings
+remote_theme: pages-themes/minimal@v0.2.0 # Optional: provides a fallback style
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# URL Settings
+url: "https://altergeiszt.com" # Replace with your custom domain
