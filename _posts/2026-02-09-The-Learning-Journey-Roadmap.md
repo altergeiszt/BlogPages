@@ -99,4 +99,65 @@ one kick 10,000 times." This philosophy is a great example of how to practice wi
 
 Going back to what Bruce Lee once said, it is possible to master one thing by breaking down complex skills into smaller components, or breaking down a concept into its foundations.
 Young described this weakest point or knowledge-gap as the "rate-determining step". By definition, a rate-determining step is the slowest part in a chemical reaction.
-By practising a skill, or applying what we learned in a study session directly
+To find out what these weak points are, we practice the direct skill first, and when we identify a bottleneck or knowledge-gap, we then drill that bottleneck down until we have understood it better, or the task has become second nature.
+Only then can we integrate it back into the main skill.
+
+I'll use Calculus again as an example. Let's say in a session, I had a hard time applying the chain rule to a single-variable equation. So I go back to practice the direct derivative rules that build up to the chain rule, while deliberately increasing the difficulty and intensity (like changing the equation, adding, or removing a variable) until I can apply the chain rule intuitively. There is a chance that I might need to go down hierarchy of rules if I find myself stuck on a preceding rule.
+
+This Direct-Then-Drill loop is one of the strongest catalyst of learning. But it doesn't end on that point.
+
+## Principle 5 & 6 Retrieval and Feedback
+
+The next two principles goes together and builds upon the Direct-Then-Drill loop turning an already powerful method into a supercharged activity.
+
+First, we'll look into what retrieval and feedback is. Retrieval is the action where we pull the knowledge from our heads, and try to reproduce it from scratch. While feedback is the input we get from colleagues, mentors, or from the public or audience. While there is not a single best method for retrieval, the best results come from a mixture of drills or challenging activities, and the quality or "helpfulness" of the feedback.
+
+I'll leave out the example for now because the next principles will show us the importance of effective retrieval and the quality of a feedback. And how the other principles above builds up towards an end goal.
+
+## Principle 7 Retention
+
+Even if we practice the Direct-then-drill method, and our retrieval and feedback loop is impeccable, if we don't implement a retention strategy to address information decay and interference, we are practically wasting our time. Cognitive Scientist calls this information decay as the forgetting curve. To help mitigate or "flatten the curve", we can add more components in our study-practice-feedback loop by implementing Spaced repetition, overlearning, and practising a skill until it becomes a habit or a procedure.
+
+Spaced repetition is the act of spreading out the time for practice and free recall throughout the week, instead of doing it on a single day for an arbitrarily large amount of time.
+
+Overlearning is the act of continuous, deliberate practice even when we are able to do a skill correctly a single time. This flattens the forgetting curve by pushing the level of proficiency to a certain point that it feels automatic. This then opens up the door to "procedualization".
+
+Procedualization is when we practice our skills until it becomes second nature through constant application. By continuously drilling the core components of a skill, it flattens the forgetting curve by reinforcing neural connection until we develop "muscle-memory".
+
+## Principle 8 Intuition
+
+We can then look at the importance of intuition in any learning activity.
+Intuition is the by-product of frequent retrieval and reflection and application of quality feedback which can only be reached through deep engagement with the subject matter. It is an ability to convey a concept without using fancy jargon. Or the ability to solve a new problem using the knowledge we have.
+
+According to Young, the best method to gauge our intuition is through using the Feynman Technique. It is an activity where we identify a concept, explain it using our own words, and if we are unable to describe the concept in that manner, we don't fully understand the concept and we must go back until we can explain this concept better. On the other hand, if we managed to explain the concept in such a way, the next step is to simplify the explanation by using analogies.
+
+## Principle 9 Experimentation
+
+This is the end goal of my learning project. Building a strong foundation of the concepts, techniques and procedures involved in Data Science and Machine Learning. 
+
+I have never tried to push myself to learn more advanced mathematical concepts during my time as a university student. And I was happy that I passed the required classes even if the final grade was low. This was the time where I stayed in my comfort zone because I didn't had the drive or the motive to do break through my box.
+
+But as I mature, I developed this appreciation for maths beyond elementary calculus, and first year courses in linear algebra, statistics and probability. This is learning project is both a challenge and an experiment, and one that I know will be one of the activities that I will pursue to keep myself sharp.
+
+I will add a single point to Young's principles of ultralearning. While it wasn't explicitly mentioned in the book, it lays hidden through the pages.
+
+## Bonus Encoding
+
+Encoding is the invisible thread that ties the 9 principles together, and it is defined as the process of transferring new knowledge in our working memory into the long term memory. There are three places where encoding happens during the lifetime of a learning project, namely:
+
+**Deep Encoding** happens while we develop intuition using various practices and techniques. It is done by forming relationships with what we know, to what we are learning. The use of analogies and visualizations are a good way to encode abstract data into concrete mental pictures.
+
+**Contextual Encoding** happens when we think about how we think, and learn about how we learn which helps us recognize the structure of a subject and enables us to observe and reflect on our study sessions.
+
+**Situational Encoding** happens when we learn a skill within an environment that facilitates the actual use of the skill.
+
+Young argues that we don't just want to encode new concepts, we also need to understand the reasoning behind the concept so that our ability to encode drives better intuition.
+
+## What's next?
+
+After the exposition on the 9 principles of Ultralearning, it actually armed me with better understanding of the process, what those entail, and how I should apply the principles throughout the lifetime of the project.
+This then enabled me to practice reading a book analytically, and it taught me how to write properly.
+
+While I develop the skills laid out in the table in Principle 1, I will also be writing my progress through the learning journey, and if possible, share my insights about the books I have in my back log.
+
+And thank you for staying this far.
